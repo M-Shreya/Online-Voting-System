@@ -1,6 +1,6 @@
 # 🗳️ Online Voting System
 
-A PHP-based Online Voting System allowing secure and efficient voting process.
+A secure and user-friendly PHP-based Online Voting System designed to streamline the election process, prevent duplicate votes, and display real-time results. Ideal for organizations, institutions, or communities seeking a digital voting solution.
 
 ## Requirements
 - PHP 7.4+
